@@ -1,7 +1,7 @@
-# Read instructions before running tests
+# Read below instructions before running tests
 
 ### Authorization
-You need to register new account [here](https://apps.developer.allegro.pl/new) before running this tests.
+You need to register new account [here](https://apps.developer.allegro.pl/new) before running those tests.
 Enter generated **client id** and **client credentials** in *data.properties* file:
 ```
 authorization.app.credentials.client_id=<client_id>
