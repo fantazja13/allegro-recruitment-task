@@ -2,7 +2,7 @@
 
 ### Authorization
 You need to register new account [here](https://apps.developer.allegro.pl/new) before running those tests.
-Enter generated **client id** and **client credentials** in *data.properties* file:
+Enter generated **client id** and **client secret** in *data.properties* file:
 ```
 authorization.app.credentials.client_id=<client_id>
 authorization.app.credentials.client_secret=<client_secret>
