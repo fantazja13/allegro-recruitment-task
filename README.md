@@ -1,0 +1,1 @@
+# allegro-recruitment-task
